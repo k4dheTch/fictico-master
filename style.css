@@ -1,9 +1,19 @@
-body {
-background-color:rgba(151, 0, 0, 0.829);
-}
+
 p {
     color: #99c2ffb0;
 }
 .estorogonofy{
     font-style:inherit;
+}
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
 }
